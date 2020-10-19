@@ -9,4 +9,5 @@ PocketMine-MP Player Attendance Reward.
 
 # Histories
 
+* Add Functions
 - https://github.com/SKHPMMPPlugins/AttendanceCheck/commit/d21bfff2614a4a35103f880dacc5dc1e2cea035b
