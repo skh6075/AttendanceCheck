@@ -4,3 +4,7 @@ author: AvasKr
 api: 3.10.0
 version: 1.0.0
 website: https://github.com/GodVas
+
+permissions:
+  attendance.check.permission:
+    default: op
