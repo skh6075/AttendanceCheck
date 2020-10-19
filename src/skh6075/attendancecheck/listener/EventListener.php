@@ -9,6 +9,8 @@ use pocketmine\item\Item;
 
 use skh6075\attendancecheck\AttendanceCheck;
 
+use function array_map;
+
 class EventListener implements Listener{
 
     /** @var AttendanceCheck */
