@@ -9,6 +9,16 @@ use pocketmine\item\Item;
 use skh6075\attendancecheck\command\AttendanceCheckCommand;
 use skh6075\attendancecheck\listener\EventListener;
 
+use function date_default_timezone_get;
+use function date_default_timezone_set;
+use function json_encode;
+use function json_decode;
+use function file_get_contents;
+use function file_put_contents;
+use function time;
+use const JSON_PRETTY_PRINT;
+use const JSON_UNESCAPED_SLASHES;
+
 class AttendanceCheck extends PluginBase{
 
     public static $prefix = "§l§b[출석체크]§r§7 ";
