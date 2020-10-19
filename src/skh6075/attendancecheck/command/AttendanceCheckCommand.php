@@ -10,6 +10,11 @@ use pocketmine\item\Item;
 
 use skh6075\attendancecheck\AttendanceCheck;
 
+use function array_shift;
+use function is_numeric;
+use function implode;
+use function array_map;
+
 class AttendanceCheckCommand extends Command{
 
     /** @var AttendanceCheck */
