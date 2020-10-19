@@ -3,4 +3,5 @@ PocketMine-MP Player Attendance Reward.
 
 # images
 
-![](https://raw.githubusercontent.com/GodVas/AttendanceCheck/master/images/image.jpg)
+![](https://github.com/SKHPMMPPlugins/AttendanceCheck/blob/main/images/image1.jpg)
+![](https://github.com/SKHPMMPPlugins/AttendanceCheck/blob/main/images/image2.jpg)
