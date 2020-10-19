@@ -12,3 +12,4 @@ PocketMine-MP Player Attendance Reward.
 * Add Functions
   - https://github.com/SKHPMMPPlugins/AttendanceCheck/commit/d21bfff2614a4a35103f880dacc5dc1e2cea035b
   - https://github.com/SKHPMMPPlugins/AttendanceCheck/commit/620ca1045eb027b520a9d4d5711e390483979e17
+  - https://github.com/SKHPMMPPlugins/AttendanceCheck/commit/c60386f11d530807d887249a834e08f8d15d098d
